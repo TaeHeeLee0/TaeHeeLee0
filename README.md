@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:6DB33F,100:007396&height=180&section=header&text=TaeHee%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Realtime%20Service&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:344C70,50:354D71,100:3B5375&height=180&section=header&text=TaeHee%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Realtime%20Service&descAlignY=58&descSize=16)
 
 ### 안녕하세요, 백엔드 개발자 이태희입니다.
 
@@ -18,6 +18,17 @@ Spring Boot 기반 백엔드를 중심으로 실시간 통신, 인증, 파일 �
 - JWT 인증, 세션 관리, 파일 업로드, 외부 서버 연동처럼 서비스의 흐름을 안정적으로 만드는 작업을 좋아합니다.
 - Android와 Wear OS 개발 경험이 있어 클라이언트와 백엔드의 연결 지점도 함께 고민합니다.
 - 단순 구현보다 측정, 개선, 유지보수 가능한 구조에 관심이 있습니다.
+
+---
+
+## Projects
+
+- [DDGo](https://github.com/SSAFY14-D204/DDGo)<br/>
+  클라이밍 영상과 심박 데이터를 기반으로 AI 분석 결과를 제공하는 Android/Wear OS 서비스입니다.
+- [EchoForest](https://github.com/SSAFY14-D105/echoforest)<br/>
+  음성·영상 채팅과 WebSocket 실시간 동기화를 활용한 4인 협동 웹게임입니다.
+- Play! Nemonic<br/>
+  사용자가 그린 콘텐츠를 릴레이 드로잉, 갤러리, 출력, QR 공유 흐름으로 연결하는 참여형 서비스입니다.
 
 ---
 
