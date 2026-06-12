@@ -27,7 +27,7 @@ Spring Boot 기반 백엔드를 중심으로 실시간 통신, 인증, 파일 �
   클라이밍 영상과 심박 데이터를 기반으로 AI 분석 결과를 제공하는 Android/Wear OS 서비스입니다.
 - [EchoForest](https://github.com/SSAFY14-D105/echoforest)<br/>
   음성·영상 채팅과 WebSocket 실시간 동기화를 활용한 4인 협동 웹게임입니다.
-- Play! Nemonic<br/>
+- [Play! Nemonic](https://github.com/SSAFY14-S208/play-nemonic)<br/>
   사용자가 그린 콘텐츠를 릴레이 드로잉, 갤러리, 출력, QR 공유 흐름으로 연결하는 참여형 서비스입니다.
 
 ---
